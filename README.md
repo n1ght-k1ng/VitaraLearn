@@ -1,8 +1,6 @@
 # Welcome to Vitara Learn 
-
-## Task for Internship @ Vitara Enterprises 
 ### Name - Dasari Nikhil Reddy  
-#### Submitted on 16th July (Deadline 18th July) 
+
 
 Vitara Learn offers a beginner DSA course for students who are new to the domain. 
 
