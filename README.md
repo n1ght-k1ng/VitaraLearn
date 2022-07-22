@@ -1,6 +1,6 @@
 # Welcome to Vitara Learn 
-### Name - Dasari Nikhil Reddy  
 
+## Personal Mini-Project to test my react skills
 
 Vitara Learn offers a beginner DSA course for students who are new to the domain. 
 
