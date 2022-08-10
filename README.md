@@ -1,4 +1,4 @@
-# Welcome to Vitara Learn 
+# Vitara Learn 
 
 ## Personal Mini-Project to test my react skills
 
